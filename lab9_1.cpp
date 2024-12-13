@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){	
-	double loan,rate,interest,pay,total,Newbalance;
+	double loan,rate,interest,pay,total,Newbalance = 1;
 	int year = 1;
 	cout << "Enter initial loan: ";
 	cin >> loan;
